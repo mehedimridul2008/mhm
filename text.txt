@@ -1,0 +1,10 @@
+your-repository/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   └── shishu_loj.jpg
+└── README.md
